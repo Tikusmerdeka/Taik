@@ -1,1 +1,1 @@
-#izinvps
+#izinvps 139.177.185.248 LIFETIME 
