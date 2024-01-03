@@ -1,2 +1,2 @@
 #izinvps 139.162.21.63 LIFETIME 
-asu 139.162.32.83 Lifetime 
+RESELLER 159.65.138.249 Lifetime 
